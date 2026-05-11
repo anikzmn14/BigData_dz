@@ -1,4 +1,4 @@
-##**Задача Chat server**
+## **Задача Chat server**
 
 Ссылка на задачу: https://rosettacode.org/wiki/Chat_server#Python
 
